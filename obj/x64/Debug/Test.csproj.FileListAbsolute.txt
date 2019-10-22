@@ -1,0 +1,8 @@
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\CpuMathNative.dll
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\FastTreeNative.dll
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\Test.exe.config
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\Test.exe
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\Test.pdb
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\obj\x64\Debug\Test.exe
+C:\Users\kirtan.chhatbar\documents\visual studio 2015\Projects\Test\Test\obj\x64\Debug\Test.pdb
